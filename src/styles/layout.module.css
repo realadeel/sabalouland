@@ -1,0 +1,44 @@
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+h1, h2, h3 {
+  color: #fff;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  color: #759E58;
+}
+
+a:link {
+  color: #759E58;
+}
+
+a:visited {
+  color: #759E58;
+}
+
+a:focus {
+  color: #759E58;
+}
+
+a:hover {
+  color: #759E58;
+}
+
+a:active {
+  color: #759E58;
+}
+
+.container {
+  padding: 1rem;
+}
+
+.index {
+  margin: 1rem auto;
+  max-width: 600px;
+  text-align: center;
+}
