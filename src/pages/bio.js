@@ -1,7 +1,8 @@
 import React from "react"
 import Layout from "../components/layout"
-import bio from "./saba-lou.jpg"
-import highres from "./saba-lou-hi-res.jpg"
+import bio0 from "./bio0.jpg"
+import bio1 from "./bio1.jpg"
+import bio2 from "./bio2.jpg"
 
 export default () => (
   <Layout>
@@ -13,11 +14,17 @@ export default () => (
     With three different versions of the show she allows no boredom. Solo, Duo (feat. Oska Wald of Chuckamuck) and a full band (feat. Oska Wald, Amit Alcalai-Duvnjak of the Gondors and Chuckamuck and Omri Gondor of the Gondors). They play internationally and have the second album in the works...
     </p>
     <p>
-      <img src={bio} alt="Saba Lou" />
+      <img src={bio0} alt="Saba Lou" />
     </p>
+    <p>Credit Dani Canto</p>
     <p>
-      <a href={highres}>Download</a> - Photo by Tally Tupelo
+      <img src={bio1} alt="Saba Lou" />
     </p>
+    <p>Credit Noel Richter</p>
+    <p>
+      <img src={bio2} alt="Saba Lou" />
+    </p>
+    <p>Credit Roughtrade Bristol</p>
 
     <h2>Discography</h2>
     <p>
@@ -26,14 +33,6 @@ export default () => (
       "Until The End" Single 7 inch EP (Wacky Wacko) 2012
     </p>
     
-    <h2>Press Kit</h2>
-    <p>
-      Powerline Agency<br/>
-      Phone: +49.30.58842070<br/>
-      Fax: +49.30.58842079<br/>
-      mail@powerline-agency.com
-    </p>
-
     <h2>Liner notes by Jared Swilley from the Black Lips</h2>
     <p>
       It's not often you make a lifelong connection. Saba Lou was just four years old when we met. I didn't make much money back then, and neither did her father, whom we dubbed "Budget Dad" because of how he used to make Saba Lou and her younger sister, Bella, toys from cardboard. For her fifth birthday, we all chipped in to build a cardboard castle, complete with picturesque windows filled with plastic flowers and glued-on Indian gods inside. Saba Lou loved it so much she probably still thinks it rivals the most extravagant of Bohemia's Black Forest!

@@ -5,6 +5,13 @@ export default () => (
   <Layout>
     <h2>Shows</h2>
 
+    <h3>2019</h3>
+    <p>
+      June 12th - Gusto Sommerfest, Humboldthain BERLIN<br/>
+      July 20th - Binic Warm-Up Party, Le Petit Bain PARIS<br/>
+      July 26/27/28th - BINIC Blues Festival 
+    </p>
+
     <h3>2018</h3>
     <p>
       April 16th - Westgermany BERLIN<br/>
@@ -18,7 +25,10 @@ export default () => (
       August 29th - Rough Trade, BRISTOL<br/>
       August 30th - Shacklewell Arms, LONDON<br/>
       August 31st - End Of The Road Festival LARMER TREE GARDEN<br/>
-      September 1st - Manchester Psyche Fest
+      September 1st - Manchester Psyche Fest<br/>
+      November 15th - Groovestation DRESDEN<br/>
+      November 16th - Pushen Festival, Festsaal Kreuzberg BERLIN<br/>
+      December 2nd - Héliogabal BARCELONA
     </p>
 
     <h3>2017</h3>
@@ -29,8 +39,6 @@ export default () => (
       November 4th - Festsaal Kreuzberg BERLIN<br/>
       November 6th - Molotov HAMBURG<br/>
       November 9th/11th - We Make Waves Festival BERLIN<br/>
-      November 15th - Groovestation DRESDEN<br/>
-      November 16th - Pushen Festival, Festsaal Kreuzberg BERLIN
     </p>
   </Layout>
 )

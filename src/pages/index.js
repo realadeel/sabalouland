@@ -18,6 +18,9 @@ export default () => (
           <a href="https://instagram.com/sabalouland">Instagram</a>
         </li>
         <li style={{ display: `inline-block`, marginRight: `1rem` }}>
+          <Link to="/lyrics">Lyrics</Link>
+        </li>
+        <li style={{ display: `inline-block`, marginRight: `1rem` }}>
           <Link to="/press">Press</Link>
         </li>
         <li style={{ display: `inline-block`, marginRight: `1rem` }}>

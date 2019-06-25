@@ -15,6 +15,12 @@ export default () => (
       zack@bighassle.com<br/>
       (212) 619-1360
     </p>
+    <p>
+      Powerline Agency<br/>
+      Phone: +49.30.58842070<br/>
+      Fax: +49.30.58842079<br/>
+      mail@powerline-agency.com
+    </p>
 
   </Layout>
 )

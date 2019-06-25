@@ -1,0 +1,15 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "sabalou-20181014205824-authRole",
+            "UnauthRoleArn": "arn:aws:iam::872399195257:role/sabalou-20181014205824-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::872399195257:role/sabalou-20181014205824-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "sabalou-20181014205824-deployment",
+            "UnauthRoleName": "sabalou-20181014205824-unauthRole",
+            "StackName": "sabalou-20181014205824",
+            "StackId": "arn:aws:cloudformation:us-east-2:872399195257:stack/sabalou-20181014205824/cc2e3750-d01d-11e8-908c-0ac9717b85d8"
+        }
+    },
+    "publish-ignore": []
+}
