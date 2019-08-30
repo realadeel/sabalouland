@@ -9,7 +9,9 @@ export default () => (
     <p>
       June 12th - Gusto Sommerfest, Humboldthain BERLIN<br/>
       July 20th - Binic Warm-Up Party, Le Petit Bain PARIS<br/>
-      July 26/27/28th - BINIC Blues Festival 
+      July 26/27/28th - BINIC Blues Festival<br/>
+      August 31st - Volcom Garden Festival, Cassiopeia BERLIN<br/>
+      November 16/17th - Synästhesie Festival, Kulturbrauerei BERLIN
     </p>
 
     <h3>2018</h3>
