@@ -41,6 +41,9 @@ export default () => (
         <li style={{ display: `inline-block`, marginRight: `1rem` }}>
           <Link to="/shows">Shows</Link>
         </li>
+        <li style={{ display: `inline-block`, marginRight: `1rem` }}>
+          <Link to="/videos">Videos</Link>
+        </li>
       </ul>
     </div>
   </Layout>
