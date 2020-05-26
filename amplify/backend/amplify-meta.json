@@ -19,7 +19,7 @@
 				"s3TemplateURL": "https://s3.amazonaws.com/sabalou-20181014205824-deployment/amplify-cfn-templates/hosting/template.json",
 				"logicalId": "hostingS3AndCloudFront"
 			},
-			"lastPushTimeStamp": "2018-10-16T16:00:56.700Z",
+			"lastPushTimeStamp": "2019-10-10T15:49:46.584Z",
 			"output": {
 				"S3BucketSecureURL": "https://sabalou-20181014210001--hostingbucket.s3.amazonaws.com",
 				"WebsiteURL": "http://sabalou-20181014210001--hostingbucket.s3-website.us-east-2.amazonaws.com",
@@ -29,7 +29,7 @@
 				"CloudFrontDistributionID": "E88B1PD0X2SV1",
 				"CloudFrontDomainName": "d3znhsnawzqyi.cloudfront.net"
 			},
-			"lastPushDirHash": "bRr1w8prhv8srX1C7XuuQS6pVDA="
+			"lastPushDirHash": "1qZp0p6X2MStzPrY01Rk4c50LyI="
 		}
 	}
 }

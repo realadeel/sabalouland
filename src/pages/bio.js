@@ -8,31 +8,25 @@ export default () => (
   <Layout>
     <h2>Bio</h2>
     <p>
-      Saba Lou was born in the year 2000 in Kassel, Germany. She moved to Berlin with her family in 2005. She began her recording career at the age of 6, putting out a 4 song 7-inch on Atlanta’s Slaughterhaus/Rob’s House Records. Two years later she recorded “Good Habits (and Bad)” which was then used for the end credits on Cartoon Network’s “Clarence” TV show. The song was also released in 2012 on the “Until The End” 7-inch on Seth Bogart’s (aka Hunx) label Wacky Wacko records.
-    </p> 
-    <p>
-      Saba Lou recorded her debut album “Planet Enigma” at the age of fifteen. Ryan Sambol, of the Strange Boys, makes a guest appearance on “Our Fate”. Erin Wood from the Spits also sings back ups and provides some space synth on “Planet Enigma”. The album was recorded at Moon Studios, Berlin in late 2015/early 2016 where Saba Lou currently lives. Its simple, innocent modesty reflects well on the tenderness of early teenhood. She sketches, writes and rehearses, loves ferns and mosses, coconut and mango.
+    Saba Lou was born in the year 2000 in Kassel, Germany. She moved to Berlin with her family in 2005. She began her recording career at the age of 6, putting out a 4 song 7-inch on Atlanta’s Slaughterhaus/Rob’s House Records. Two years later she recorded “Good Habits (and Bad)” which was then used for the end credits on Cartoon Network’s “Clarence” TV show. The song was also released in 2012 on the “Until The End” 7-inch on Seth Bogart’s (aka Hunx) label Wacky Wacko records.
     </p>
     <p>
-      With three different versions of the show she allows no boredom. Solo, Duo (feat. Oska Wald of Chuckamuck) and a full band (feat. Oska Wald, Amit Alcalai-Duvnjak of The Gondors and Chuckamuck and Omri Gondor of The Gondors). 
+    Saba Lou recorded her debut album “Planet Enigma” at the age of fifteen. Ryan Sambol, of the Strange Boys, makes a guest appearance on “Our Fate”. Erin Wood of the Spits also sings back ups and provides some space synth on “Planet Enigma”. The album was recorded at Moon Studios, Berlin in late 2015/early 2016 where Saba Lou currently lives. Its simple, innocent modesty reflects well on the tenderness of early teenhood. She sketches, writes and rehearses, loves ferns and mosses, coconut and mango.
     </p>
     <p>
-      They play internationally and have the second album coming out on October 11th with a prospective sneak peak in August.
+    Live she plays in several constellatins: Solo, Duo (feat. Oska Wald of Chuckamuck) and  with a full band (feat. Oska Wald, Omri Gondor and Amit Alcalai-Duvnjak, of the Gondors and Chuckamuck). They play internationally and put out the second album, “Novum Ovum” (lat. new egg) in October 2019, which was recorded at Big Snuff Studio in Berlin. It stands in strong contrast to the first and features the full four-person band. and was recorded in 2018 at Big Snuff Studio in Berlin.
     </p>
     <p>
-      This second album titled “NOVUM OVUM” (lat. a new egg) stands in strong contrast to the first and features the full four-person band. It was recorded in 2018 at Big Snuff Studio in Berlin.<br/>
-      And now, a message from its composer: 
+    And now, a message from its composer:
     </p>
     <p>
-      “The title song was inspired by a specifically painful ovulation (credits to Endometriosis) that happened on-stage, I wrote the lyrics as a bad mood poem to vent my frustration the day after. Especially lyrically this album is very dear to me as I feel I’ve expressed myself more freely and abstractly, it’s a collection if things that popped into my mind, while I feel the first was more of a ‘testing-the-waters’ type thing, though just as honest at that time. A time during which I would not have felt at liberty to write a song from the perspective of Gracie, the pregnant whale from Star Trek IV: The Voyage Home (final song, Humpback In Time”) as Spock mindmelds with her. It came very naturally to me, the lyrics are more or less first thoughts I had during that scene.
-      My bandmates give the pieces so much, Oska, who I’ve been playing with for over three years now, can read my thoughts with his lead lines. He comes from a rougher rock’n’roll background and adds a sharp edge. Amit and Omri, who have played together and been best friend for ages, originate from the Tel-Aviv jazz scene and play with an ease I can’t begin to describe. Omri can adapt to anything, an intuitively steady base. Amit’s versatility on the keys is ridiculous and the synth bass, of which I personally am very fond, adds a fluidity only a pianist can achieve. 
-      We are all close friends and working in such a familiar environment is a blessing.
-      It’s important to me that the full band isn’t viewed as a ‘step up’ but rather like an alternative. I intend to record a solo version of the album in the style of the first as I don’t want to lose the living room quality, though the band’s company, of course, is priceless. 
-      It is with great pride and (Klingon) honor that I present this work to the world, this morsel of my mind. 
-      In hopes it will stir you and incite honesty and love, I bade you farewell.<br/>
-      Live long and prosper,<br/>
+    “The title song was inspired by a specifically painful ovulation (credits to Endometriosis) that happened on-stage. I wrote the lyrics as a bad mood poem to vent my frustration the day after. Especially lyrically this album is very dear to me as I feel I’ve expressed myself more freely and abstractly. It’s a collection if things that popped into my mind, while I feel the first was more of a ‘testing-the-waters’ type thing, though just as honest at that time. A time during which I would not have felt at liberty to write a song from the perspective of Gracie, the pregnant whale from Star Trek IV: The Voyage Home (final song, “Humpback In Time”), as Spock mindmelds with her, of which the lyrics are more or less first thoughts I had during that scene. 
+    My bandmates give the pieces so much: Oska - whom I’ve been playing with for over three years now - can read my thoughts with his lead lines. He comes from a rougher rock’n’roll background and adds a sharp edge. Amit and Omri - who have played together and been best friend for ages - originate from the Tel-Aviv jazz scene and play with an ease I can’t begin to describe. Omri can adapt to anything, an intuitively steady base. Amit’s versatility on the keys is ridiculous and the synth bass, of which I personally am very fond, adds a certain fluidity only a pianist can achieve. We are all close friends and working in such a familiar environment is a blessing. 
+    It’s important to me that the full band isn’t viewed as a ‘step up’ but rather as an alternative. I intend to record a solo version of the album in the style of the first as I don’t want to lose the living room quality, though the band’s company, of course, is priceless. It is with great pride and (Klingon) honor that I present this work to the world, this morsel of my mind. In hopes it will stir you and incite honesty and love, I bade you farewell.
+    Live long and prosper,<br/>
       Saba Lou Khan”
     </p>
+
     <p>
       <img src={bio0} alt="Saba Lou" />
     </p>

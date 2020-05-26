@@ -22,7 +22,7 @@ export default () => (
       </div>
       <div className={layoutStyles.preorder}>
         <a href="https://sabalou.bandcamp.com/album/novum-ovum">
-          Click to pre-order Novum Ovum!
+          Click to Order Novum Ovum!
         </a>
       </div>
       <ul style={{ listStyle: `none` }}>
