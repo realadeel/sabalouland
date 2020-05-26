@@ -23,7 +23,10 @@ export default () => (
     “The title song was inspired by a specifically painful ovulation (credits to Endometriosis) that happened on-stage. I wrote the lyrics as a bad mood poem to vent my frustration the day after. Especially lyrically this album is very dear to me as I feel I’ve expressed myself more freely and abstractly. It’s a collection if things that popped into my mind, while I feel the first was more of a ‘testing-the-waters’ type thing, though just as honest at that time. A time during which I would not have felt at liberty to write a song from the perspective of Gracie, the pregnant whale from Star Trek IV: The Voyage Home (final song, “Humpback In Time”), as Spock mindmelds with her, of which the lyrics are more or less first thoughts I had during that scene. 
     My bandmates give the pieces so much: Oska - whom I’ve been playing with for over three years now - can read my thoughts with his lead lines. He comes from a rougher rock’n’roll background and adds a sharp edge. Amit and Omri - who have played together and been best friend for ages - originate from the Tel-Aviv jazz scene and play with an ease I can’t begin to describe. Omri can adapt to anything, an intuitively steady base. Amit’s versatility on the keys is ridiculous and the synth bass, of which I personally am very fond, adds a certain fluidity only a pianist can achieve. We are all close friends and working in such a familiar environment is a blessing. 
     It’s important to me that the full band isn’t viewed as a ‘step up’ but rather as an alternative. I intend to record a solo version of the album in the style of the first as I don’t want to lose the living room quality, though the band’s company, of course, is priceless. It is with great pride and (Klingon) honor that I present this work to the world, this morsel of my mind. In hopes it will stir you and incite honesty and love, I bade you farewell.
-    Live long and prosper,<br/>
+    </p>
+    <p>
+    Live long and prosper,
+    <br/>
       Saba Lou Khan”
     </p>
 
